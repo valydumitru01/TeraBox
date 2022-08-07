@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\layers">
+      <UniqueIdentifier>{a5787b55-605a-44fa-8370-7ae05b9ff76f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\layers">
+      <UniqueIdentifier>{0da84de2-17be-4144-ba21-536d059d45bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores">
+      <UniqueIdentifier>{ea8ed1b8-0cbd-4448-b64d-149e24457503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores">
+      <UniqueIdentifier>{d72f9674-6a1c-47ec-9ac3-e65b9c20e91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\items">
+      <UniqueIdentifier>{d02feb93-5c80-462f-bb3f-17b504be313c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\items">
+      <UniqueIdentifier>{d5f1e6ca-da7a-4955-8de6-9ba361b2f298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\inventario">
+      <UniqueIdentifier>{4df64188-ef8f-4318-955c-52403b58fbb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\inventario">
+      <UniqueIdentifier>{e615d41d-52e8-4353-9bfc-4a56da7e63dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\items\Tools">
+      <UniqueIdentifier>{c653bf08-dd27-4f9c-ae63-c42f063387ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\items\Tools">
+      <UniqueIdentifier>{4849cfec-9e6f-468c-b1f6-2d5bc22f29ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\items\Blocks">
+      <UniqueIdentifier>{a44ac8bb-3ef4-4220-b78a-c51c2422020f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\items\Blocks">
+      <UniqueIdentifier>{9920599d-c36b-424d-a83f-a72d2d944b27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\Tiles">
+      <UniqueIdentifier>{633acb27-2dcb-4533-9d76-a3647c067cb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\Tiles\Tree">
+      <UniqueIdentifier>{2b5f9302-a56b-4210-89a0-2d43e8a3385b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\Tiles">
+      <UniqueIdentifier>{ca49f8c9-8fd0-4cae-b576-e01a8c6be9a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\Tiles\Tree">
+      <UniqueIdentifier>{dc455ef7-0fe0-43db-911b-05e258fd4a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\Projectiles">
+      <UniqueIdentifier>{60eccc19-2fd1-4eef-a02f-233c88d5020d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\Projectiles">
+      <UniqueIdentifier>{228e1f2a-9500-4298-b045-02cf1f6f341b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\items\Tools\Weapons">
+      <UniqueIdentifier>{f50e9a3e-b853-4f81-a26d-d3589a9d12ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\items\Tools\Weapons">
+      <UniqueIdentifier>{f7f88bcd-d81e-4e20-b973-0810d3e18e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\enemigos">
+      <UniqueIdentifier>{54a68e9f-6727-49d9-a929-82da575cfa46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\enemigos">
+      <UniqueIdentifier>{9c13ec76-5599-4cbf-85b7-9d8fac4cf342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\Vida">
+      <UniqueIdentifier>{06b2745c-d078-4de0-a22a-bc47d0c53541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\Vida">
+      <UniqueIdentifier>{896c3ea1-469c-4f3a-9e67-90c05dce9efa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Layer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLayer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Space.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Pad.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Archivos de origen\actores\items</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Archivos de origen\actores\inventario</Filter>
+    </ClCompile>
+    <ClCompile Include="InventorySlot.cpp">
+      <Filter>Archivos de origen\actores\inventario</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLayer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.h">
+      <Filter>Archivos de encabezado\actores\items\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>Archivos de origen\actores\items\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloque.cpp">
+      <Filter>Archivos de origen\actores\items\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="Axe.cpp">
+      <Filter>Archivos de origen\actores\items\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickaxe.cpp">
+      <Filter>Archivos de origen\actores\items\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="DirtBlock.cpp">
+      <Filter>Archivos de origen\actores\items\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneBlock.cpp">
+      <Filter>Archivos de origen\actores\items\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="WoodBlock.cpp">
+      <Filter>Archivos de origen\actores\items\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="GrassBlock.cpp">
+      <Filter>Archivos de origen\actores\items\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="GrassTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DirtTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="WoodTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree_LeavesTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree_TrunkTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="BedrockTile.cpp">
+      <Filter>Archivos de origen\actores\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SwordProjectile.cpp">
+      <Filter>Archivos de origen\actores\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Archivos de origen\actores\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="BowProjectile.cpp">
+      <Filter>Archivos de origen\actores\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Archivos de origen\actores\items\Tools\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Bow.cpp">
+      <Filter>Archivos de origen\actores\items\Tools\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Archivos de origen\actores\items\Tools\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Archivos de origen\actores\enemigos</Filter>
+    </ClCompile>
+    <ClCompile Include="Slime.cpp">
+      <Filter>Archivos de origen\actores\enemigos</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Archivos de origen\actores\enemigos</Filter>
+    </ClCompile>
+    <ClCompile Include="BarraDeVida.cpp">
+      <Filter>Archivos de origen\actores\Vida</Filter>
+    </ClCompile>
+    <ClCompile Include="PuntoDeVida.cpp">
+      <Filter>Archivos de origen\actores\Vida</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLayer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Space.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pad.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Archivos de encabezado\actores\items</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Archivos de encabezado\actores\inventario</Filter>
+    </ClInclude>
+    <ClInclude Include="InventorySlot.h">
+      <Filter>Archivos de encabezado\actores\inventario</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuLayer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="Bloque.h">
+      <Filter>Archivos de encabezado\actores\items\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="DirtBlock.h">
+      <Filter>Archivos de encabezado\actores\items\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="WoodBlock.h">
+      <Filter>Archivos de encabezado\actores\items\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneBlock.h">
+      <Filter>Archivos de encabezado\actores\items\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="Axe.h">
+      <Filter>Archivos de encabezado\actores\items\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickaxe.h">
+      <Filter>Archivos de encabezado\actores\items\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="GrassBlock.h">
+      <Filter>Archivos de encabezado\actores\items\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="WoodTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DirtTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="GrassTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree_TrunkTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree_LeavesTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemEnum.h">
+      <Filter>Archivos de encabezado\actores\items</Filter>
+    </ClInclude>
+    <ClInclude Include="BedrockTile.h">
+      <Filter>Archivos de encabezado\actores\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Archivos de encabezado\actores\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="SwordProjectile.h">
+      <Filter>Archivos de encabezado\actores\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="BowProjectile.h">
+      <Filter>Archivos de encabezado\actores\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Archivos de encabezado\actores\items\Tools\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Bow.h">
+      <Filter>Archivos de encabezado\actores\items\Tools\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Archivos de encabezado\actores\items\Tools\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Archivos de encabezado\actores\enemigos</Filter>
+    </ClInclude>
+    <ClInclude Include="Slime.h">
+      <Filter>Archivos de encabezado\actores\enemigos</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Archivos de encabezado\actores\enemigos</Filter>
+    </ClInclude>
+    <ClInclude Include="BarraDeVida.h">
+      <Filter>Archivos de encabezado\actores\Vida</Filter>
+    </ClInclude>
+    <ClInclude Include="PuntoDeVida.h">
+      <Filter>Archivos de encabezado\actores\Vida</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

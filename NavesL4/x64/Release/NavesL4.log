@@ -1,0 +1,272 @@
+﻿  Actor.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(11,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(12,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(25,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(26,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(45,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Actor.cpp(46,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Animation.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(11,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(12,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(13,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(14,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(29,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(30,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(54,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(62,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Animation.cpp(63,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Audio.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Axe.cpp
+  Background.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Background.cpp(19,9): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  BarraDeVida.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\BarraDeVida.cpp(8,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\BarraDeVida.cpp(8,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\BarraDeVida.cpp(11,80): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\BarraDeVida.cpp(11,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\BarraDeVida.cpp(19,30): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  BedrockTile.cpp
+  Bloque.cpp
+  Bow.cpp
+  BowProjectile.cpp
+  DirtBlock.cpp
+  DirtTile.cpp
+  Enemy.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(89,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(90,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(97,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(98,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(105,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Enemy.cpp(106,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Game.cpp(68,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Game.cpp(68,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(23,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(23,13): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(22,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(22,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(51,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(56,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(57,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(91,34): warning C4244: '=': conversión de 'int' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(92,35): warning C4244: '=': conversión de 'int' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(150,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(151,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(157,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(258,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(258,14): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(257,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(257,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(265,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(265,15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(264,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(264,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(311,31): warning C4244: '=': conversión de '_Ty1' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(312,33): warning C4244: '=': conversión de '_Ty2' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(383,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(383,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(390,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(390,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(469,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(476,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(483,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(490,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(551,20): warning C4244: '=': conversión de 'int' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(552,21): warning C4244: '=': conversión de 'int' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(602,49): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(602,38): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(604,44): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(604,33): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(654,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(655,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(247,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(560): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(560): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(247,61): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(316,39): warning C4244: '=': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(601): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\GameLayer.cpp(601): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(317,39): warning C4244: '=': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  GrassBlock.cpp
+  GrassTile.cpp
+  Inventory.cpp
+  InventorySlot.cpp
+  Item.cpp
+  Compilando...
+  Layer.cpp
+  Main.cpp
+  MenuLayer.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\MenuLayer.cpp(92,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\MenuLayer.cpp(92,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Pad.cpp
+  Pickaxe.cpp
+  Player.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(11,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(11,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(13,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(13,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(16,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(16,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(18,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(18,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(19,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(19,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(21,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(21,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(23,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(23,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(25,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(25,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(27,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(27,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(29,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(40,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(136,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(136,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(154,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(154,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(157,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(157,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(200,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(201,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(208,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(209,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(216,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Player.cpp(217,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Projectile.cpp
+  PuntoDeVida.cpp
+  Slime.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(9,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(9,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(11,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(11,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(14,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(14,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(16,80): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(16,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(19,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(19,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(21,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Slime.cpp(21,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Sword.cpp
+  StoneBlock.cpp
+  StoneTile.cpp
+  SwordProjectile.cpp
+  Tool.cpp
+  Space.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(34,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(66,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(73,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(107,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(114,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(148,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(156,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Space.cpp(199,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Text.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Text.cpp(5,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Text.cpp(6,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Tile.cpp
+  Tool.h
+  Tree_LeavesTile.cpp
+  Tree_TrunkTile.cpp
+  Compilando...
+  Weapon.cpp
+  WoodBlock.cpp
+  WoodTile.cpp
+  Zombie.cpp
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(10,92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(10,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(12,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(12,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(15,93): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(15,86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(17,92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(17,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(20,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(20,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(22,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive\TeraBox\NavesL4\Zombie.cpp(22,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+x64\Release\Tool.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+  Generando código
+  984 of 1324 functions (74.3%) were compiled, the rest were copied from previous compilation.
+    353 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  NavesL4.vcxproj -> C:\Users\valyd\OneDrive\TeraBox\x64\Release\TeraBox.exe

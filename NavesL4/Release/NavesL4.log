@@ -1,0 +1,188 @@
+﻿  Actor.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(11,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(12,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(25,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(26,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(45,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Actor.cpp(46,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Animation.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(11,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(12,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(13,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(14,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(29,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(30,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(54,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(62,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Animation.cpp(63,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Audio.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Axe.cpp
+  Background.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Background.cpp(19,9): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Bloque.cpp
+  Bow.cpp
+  DirtBlock.cpp
+  DirtTile.cpp
+  Enemy.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Enemy.cpp(8,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Enemy.cpp(8,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Enemy.cpp(11,63): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Enemy.cpp(11,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Game.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Game.cpp(68,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Game.cpp(68,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(24,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(24,13): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(23,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(23,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(29,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(63,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(64,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(143,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(144,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(150,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(250,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(250,14): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(249,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(249,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(257,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(257,15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(256,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(256,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(353,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(360,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(367,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(374,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(437,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(438,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(493,49): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(493,38): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(495,44): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(495,33): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(545,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(546,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(449): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(449): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,61): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(316,39): warning C4244: '=': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(492): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\GameLayer.cpp(492): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(317,39): warning C4244: '=': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  GrassBlock.cpp
+  GrassTile.cpp
+  Inventory.cpp
+  InventorySlot.cpp
+  Item.cpp
+  Layer.cpp
+  Main.cpp
+  MenuLayer.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\MenuLayer.cpp(12,85): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\MenuLayer.cpp(92,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\MenuLayer.cpp(92,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Compilando...
+  Pad.cpp
+  Pickaxe.cpp
+  Player.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(11,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(11,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(13,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(13,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(16,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(16,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(18,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(18,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(19,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(19,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(21,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(21,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(23,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(23,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(25,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(25,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(27,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(27,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(138,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Player.cpp(138,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Projectile.cpp
+  Sword.cpp
+  StoneBlock.cpp
+  StoneTile.cpp
+  Tool.cpp
+  Space.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(34,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(66,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(73,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(107,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(114,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(148,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(156,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Space.cpp(199,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Text.cpp
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Text.cpp(5,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\NavesL4\Text.cpp(6,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Tile.cpp
+  Tool.h
+  Tree_LeavesTile.cpp
+  Tree_TrunkTile.cpp
+  WoodBlock.cpp
+  WoodTile.cpp
+Release\Tool.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 909 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  NavesL4.vcxproj -> C:\Users\valyd\OneDrive - Universidad de Oviedo\Software Projects Classes\3º\Software de Entretenimiento y Videjuegos\JuegoPropio2D\Release\Terraria.exe

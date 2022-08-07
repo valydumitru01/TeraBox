@@ -1,0 +1,317 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (NavesL4-NURIALAPTOP-2.vcxproj, NavesL4-NURIALAPTOP.vcxproj, NavesL4.vcxproj, Terraria-NURIALAPTOP.vcxproj, Terraria.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Actor.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(11,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(12,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(25,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(26,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(45,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Actor.cpp(46,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Animation.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(11,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(12,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(13,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(14,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(29,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(30,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(54,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(62,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Animation.cpp(63,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Audio.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Axe.cpp
+  Background.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Background.cpp(19,9): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  BarraDeVida.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\BarraDeVida.cpp(8,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\BarraDeVida.cpp(8,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\BarraDeVida.cpp(11,80): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\BarraDeVida.cpp(11,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\BarraDeVida.cpp(19,30): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  BedrockTile.cpp
+  Bloque.cpp
+  Bow.cpp
+  BowProjectile.cpp
+  DirtBlock.cpp
+  DirtTile.cpp
+  Enemy.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(89,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(90,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(97,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(98,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(105,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Enemy.cpp(106,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Game.cpp(68,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Game.cpp(68,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(23,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(23,13): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(22,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(22,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(56,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(57,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(91,34): warning C4244: '=': conversión de 'int' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(92,35): warning C4244: '=': conversión de 'int' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(150,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(151,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(157,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(258,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(258,14): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(257,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(257,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(265,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(265,15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(264,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(264,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(311,31): warning C4244: '=': conversión de '_Ty1' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(312,33): warning C4244: '=': conversión de '_Ty2' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(383,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(383,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(390,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(390,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(469,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(476,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(483,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(490,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(551,20): warning C4244: '=': conversión de 'int' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(552,21): warning C4244: '=': conversión de 'int' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(602,49): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(602,38): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(604,44): warning C4244: 'argumento': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(604,33): warning C4244: 'argumento': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(654,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(655,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(560): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(560): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,61): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(316,39): warning C4244: '=': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(601): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Users\valyd\Desktop\Tera Box\NavesL4\GameLayer.cpp(601): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(317,39): warning C4244: '=': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  GrassBlock.cpp
+  GrassTile.cpp
+  Inventory.cpp
+  InventorySlot.cpp
+  Item.cpp
+  Generando código...
+  Compilando...
+  Layer.cpp
+  Main.cpp
+  MenuLayer.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\MenuLayer.cpp(92,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\MenuLayer.cpp(92,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Pad.cpp
+  Pickaxe.cpp
+  Player.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Audio.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(11,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(11,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(13,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(13,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(16,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(16,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(18,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(18,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(19,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(19,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(21,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(21,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(23,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(23,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(25,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(25,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(27,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(27,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(29,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(40,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(136,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(136,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(154,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(154,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(157,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(157,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(200,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(201,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(208,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(209,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(216,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Player.cpp(217,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Projectile.cpp
+  PuntoDeVida.cpp
+  Slime.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(9,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(9,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(11,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(11,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(14,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(14,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(16,80): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(16,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(19,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(19,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(21,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Slime.cpp(21,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Sword.cpp
+  StoneBlock.cpp
+  StoneTile.cpp
+  SwordProjectile.cpp
+  Tool.cpp
+  Space.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(34,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(66,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(73,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(107,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(114,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(148,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(156,24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Space.cpp(199,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Text.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Text.cpp(5,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Text.cpp(6,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Tile.cpp
+  Tool.h
+  Tree_LeavesTile.cpp
+  Tree_TrunkTile.cpp
+  Generando código...
+  Compilando...
+  Weapon.cpp
+  WoodBlock.cpp
+  WoodTile.cpp
+  Zombie.cpp
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(10,92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(10,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(12,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(12,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(15,93): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(15,86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(17,92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(17,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(20,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(20,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(22,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\valyd\Desktop\Tera Box\NavesL4\Zombie.cpp(22,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+Debug\Tool.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Actor.obj : error LNK2019: símbolo externo _SDL_RenderCopyEx sin resolver al que se hace referencia en la función "public: virtual void __thiscall Actor::draw(float,float)" (?draw@Actor@@UAEXMM@Z)
+Animation.obj : error LNK2001: símbolo externo _SDL_RenderCopyEx sin resolver
+Audio.obj : error LNK2019: símbolo externo _SDL_RWFromFile sin resolver al que se hace referencia en la función "public: __thiscall Audio::Audio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (??0Audio@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Audio.obj : error LNK2019: símbolo externo _SDL_OpenAudioDevice sin resolver al que se hace referencia en la función "public: __thiscall Audio::Audio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (??0Audio@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Audio.obj : error LNK2019: símbolo externo _SDL_PauseAudioDevice sin resolver al que se hace referencia en la función "public: void __thiscall Audio::play(void)" (?play@Audio@@QAEXXZ)
+Audio.obj : error LNK2019: símbolo externo _SDL_LoadWAV_RW sin resolver al que se hace referencia en la función "public: __thiscall Audio::Audio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (??0Audio@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Audio.obj : error LNK2019: símbolo externo _SDL_FreeWAV sin resolver al que se hace referencia en la función "public: __thiscall Audio::~Audio(void)" (??1Audio@@QAE@XZ)
+Audio.obj : error LNK2019: símbolo externo _SDL_QueueAudio sin resolver al que se hace referencia en la función "public: void __thiscall Audio::play(void)" (?play@Audio@@QAEXXZ)
+Audio.obj : error LNK2019: símbolo externo _SDL_GetQueuedAudioSize sin resolver al que se hace referencia en la función "public: void __thiscall Audio::play(void)" (?play@Audio@@QAEXXZ)
+Audio.obj : error LNK2019: símbolo externo _SDL_ClearQueuedAudio sin resolver al que se hace referencia en la función "public: void __thiscall Audio::play(void)" (?play@Audio@@QAEXXZ)
+Audio.obj : error LNK2019: símbolo externo _SDL_CloseAudioDevice sin resolver al que se hace referencia en la función "public: __thiscall Audio::~Audio(void)" (??1Audio@@QAE@XZ)
+Audio.obj : error LNK2019: símbolo externo _Mix_OpenAudio sin resolver al que se hace referencia en la función "public: __thiscall Audio::Audio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (??0Audio@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Audio.obj : error LNK2019: símbolo externo _Mix_LoadMUS sin resolver al que se hace referencia en la función "public: __thiscall Audio::Audio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (??0Audio@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Audio.obj : error LNK2019: símbolo externo _Mix_FreeMusic sin resolver al que se hace referencia en la función "public: __thiscall Audio::~Audio(void)" (??1Audio@@QAE@XZ)
+Audio.obj : error LNK2019: símbolo externo _Mix_PlayMusic sin resolver al que se hace referencia en la función "public: void __thiscall Audio::play(void)" (?play@Audio@@QAEXXZ)
+Audio.obj : error LNK2019: símbolo externo _Mix_CloseAudio sin resolver al que se hace referencia en la función "public: __thiscall Audio::~Audio(void)" (??1Audio@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _SDL_GetError sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _SDL_GetCurrentDisplayMode sin resolver al que se hace referencia en la función "public: void __thiscall Game::scale(void)" (?scale@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _SDL_SetWindowTitle sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _SDL_SetWindowSize sin resolver al que se hace referencia en la función "public: void __thiscall Game::scale(void)" (?scale@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _SDL_SetHint sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _SDL_CreateWindowAndRenderer sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _SDL_CreateTextureFromSurface sin resolver al que se hace referencia en la función "public: struct SDL_Texture * __thiscall Game::getTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTexture@Game@@QAEPAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Text.obj : error LNK2001: símbolo externo _SDL_CreateTextureFromSurface sin resolver
+Game.obj : error LNK2019: símbolo externo _SDL_RenderSetScale sin resolver al que se hace referencia en la función "public: void __thiscall Game::scale(void)" (?scale@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _SDL_GetTicks sin resolver al que se hace referencia en la función "public: void __thiscall Game::loop(void)" (?loop@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _SDL_Delay sin resolver al que se hace referencia en la función "public: void __thiscall Game::loop(void)" (?loop@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _SDL_Init sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _IMG_Load sin resolver al que se hace referencia en la función "public: struct SDL_Texture * __thiscall Game::getTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTexture@Game@@QAEPAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: símbolo externo _TTF_Init sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+Game.obj : error LNK2019: símbolo externo _TTF_OpenFont sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+GameLayer.obj : error LNK2019: símbolo externo _SDL_GetMouseState sin resolver al que se hace referencia en la función "public: void __thiscall GameLayer::mouseToControls(union SDL_Event)" (?mouseToControls@GameLayer@@QAEXTSDL_Event@@@Z)
+GameLayer.obj : error LNK2019: símbolo externo _SDL_PollEvent sin resolver al que se hace referencia en la función "public: virtual void __thiscall GameLayer::processControls(void)" (?processControls@GameLayer@@UAEXXZ)
+MenuLayer.obj : error LNK2001: símbolo externo _SDL_PollEvent sin resolver
+GameLayer.obj : error LNK2019: símbolo externo _SDL_RenderPresent sin resolver al que se hace referencia en la función "public: virtual void __thiscall GameLayer::draw(void)" (?draw@GameLayer@@UAEXXZ)
+MenuLayer.obj : error LNK2001: símbolo externo _SDL_RenderPresent sin resolver
+MenuLayer.obj : error LNK2019: símbolo externo _SDL_GameControllerOpen sin resolver al que se hace referencia en la función "public: __thiscall MenuLayer::MenuLayer(class Game *)" (??0MenuLayer@@QAE@PAVGame@@@Z)
+MenuLayer.obj : error LNK2019: símbolo externo _SDL_GameControllerGetButton sin resolver al que se hace referencia en la función "public: void __thiscall MenuLayer::gamePadToControls(union SDL_Event)" (?gamePadToControls@MenuLayer@@QAEXTSDL_Event@@@Z)
+Text.obj : error LNK2019: símbolo externo _SDL_FreeSurface sin resolver al que se hace referencia en la función "public: void __thiscall Text::draw(int,int,int)" (?draw@Text@@QAEXHHH@Z)
+Text.obj : error LNK2019: símbolo externo _SDL_RenderCopy sin resolver al que se hace referencia en la función "public: void __thiscall Text::draw(int,int,int)" (?draw@Text@@QAEXHHH@Z)
+Text.obj : error LNK2019: símbolo externo _SDL_DestroyTexture sin resolver al que se hace referencia en la función "public: void __thiscall Text::draw(int,int,int)" (?draw@Text@@QAEXHHH@Z)
+Text.obj : error LNK2019: símbolo externo _TTF_RenderText_Blended sin resolver al que se hace referencia en la función "public: void __thiscall Text::draw(int,int,int)" (?draw@Text@@QAEXHHH@Z)
+C:\videojuegos\lib\SDL2.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\videojuegos\lib\SDL2main.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\videojuegos\lib\SDL2_image.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\videojuegos\lib\SDL2_ttf.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\videojuegos\lib\SDL2_mixer.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\valyd\Desktop\Tera Box\Debug\TeraBox.exe : fatal error LNK1120: 38 externos sin resolver
