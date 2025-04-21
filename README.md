@@ -4,6 +4,8 @@
 ## Video
 [![Watch the video](TeraBox.png)](https://www.youtube.com/watch?v=xJrLYVcxPwo)
 > Click on the image to watch the video
+## In-Game Screenshot
+![alt text](terabox_gameplay.png)
 ---
 
 ## **1. Features**
